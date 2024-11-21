@@ -113,8 +113,13 @@ body{
     left: 18%;
     border-radius: 10px;
     border: none;
-
 }
+
+.new-arrival button:hover{
+    background-color: #1D232C;
+    color: #F2F4F7;
+}
+
 .news{
     display: flex;
     flex-direction: column;
